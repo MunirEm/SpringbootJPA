@@ -1,6 +1,6 @@
 # 🏨 InterfazBoot – Gestión de Hoteles y Empleados (Spring Boot + Swing)
 
-Este proyecto es una aplicación Java de escritorio desarrollada con **Swing** e integrada con **Spring Boot y Spring Data JPA** para la gestión de **Hoteles** y **Empleados** con una relación bidireccional 1:1.
+Este proyecto es propio para fines educativos, es una aplicación Java de escritorio desarrollada con **Swing** e integrada con **Spring Boot y Spring Data JPA** para la gestión de **Hoteles** y **Empleados** con una relación bidireccional 1:1.
 
 ---
 
