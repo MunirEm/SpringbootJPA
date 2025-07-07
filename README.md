@@ -62,14 +62,19 @@ Abre el proyecto en Eclipse como "Proyecto Maven existente".
 Revisa application.properties para usar H2:
 
 properties
-Copiar
-Editar
+
 spring.datasource.url=jdbc:h2:mem:testdb
+
 spring.datasource.driverClassName=org.h2.Driver
+
 spring.datasource.username=sa
+
 spring.datasource.password=
+
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
 spring.h2.console.enabled=true
+
 Ejecuta InterfazBoot.java como aplicación Java.
 
 🧪 Notas técnicas
