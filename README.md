@@ -55,8 +55,8 @@ InterfazBoot/
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/MunirEm/SpringbootJPA.git
+   cd SpringbootJPA
 Abre el proyecto en Eclipse como "Proyecto Maven existente".
 
 Revisa application.properties para usar H2:
